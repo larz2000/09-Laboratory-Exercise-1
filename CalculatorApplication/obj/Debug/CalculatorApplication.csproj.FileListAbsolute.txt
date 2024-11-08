@@ -1,0 +1,10 @@
+C:\Users\sarzo\source\repos\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.AssemblyReference.cache
+C:\Users\sarzo\source\repos\CalculatorApplication\obj\Debug\CalculatorApplication.FrmCalculator.resources
+C:\Users\sarzo\source\repos\CalculatorApplication\obj\Debug\CalculatorApplication.Properties.Resources.resources
+C:\Users\sarzo\source\repos\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.GenerateResource.cache
+C:\Users\sarzo\source\repos\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\sarzo\source\repos\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\sarzo\source\repos\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\sarzo\source\repos\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\sarzo\source\repos\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\sarzo\source\repos\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
