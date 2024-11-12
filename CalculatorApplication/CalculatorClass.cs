@@ -32,11 +32,11 @@ namespace CalculatorApplication
         public event Formula<double> CalculateEvent
         {
             add {
-                Console.WriteLine("Added to the delegate.");
+                MessageBox.Show("Added to the delegate.");
                 delegateFormula += value;
             }
             remove {
-                Console.WriteLine("Removed to the delegate.");
+                MessageBox.Show("Removed to the delegate.");
                 delegateFormula -= value;
             }
         }
